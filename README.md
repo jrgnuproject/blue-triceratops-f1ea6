@@ -82,6 +82,7 @@ For example the site https://zerostaticthemes.github.io/jekyll-atlantic-theme wo
 
 - Stock images by Unsplash - https://unsplash.com/
 - Feature icons by Noun Project - https://thenounproject.com/
+- Sponsored by Noun project -  https://www.targetedwebtraffic.com/?p=56
 
 ### License
 
